@@ -15,4 +15,5 @@ int main()
 	arry_one.print();
 	arry_one.DellElement(2);
 	arry_one.print();
+	return 0;
 }
